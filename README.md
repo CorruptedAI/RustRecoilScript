@@ -10,4 +10,4 @@ FOV: 90
 
 # NOTE: This will not work with Razer Synapse 2, only 3. 
 
-Repl.it link: https://repl.it/@jbrotmantcsr/ParchedPlayfulService
+Repl.it link: https://repl.it/@jbrotmantcsr/RustRecoilMacro#main.py
