@@ -11,3 +11,5 @@ FOV: 90
 # NOTE: This will not work with Razer Synapse 2, only 3. 
 
 Repl.it link: https://repl.it/@jbrotmantcsr/RustRecoilMacro#main.py
+
+# THIS SCRIPT IS OUTDATED AND YOU WILL GET BANNED FOR USING IT --- DO NOT USE!
